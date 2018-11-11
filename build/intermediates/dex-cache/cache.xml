@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Helmianto\.android\build-cache\dde9ae3c43baa66e272c20aabb0b64ae20e30bdf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="F:\ProjectAndrostu\mahasiswa-app-android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d7786972a0ce055de24a53ce73f18a8de2536460\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Helmianto\.android\build-cache\b931b936ca54efdd1b6d9229d303100d11fb8ec7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\ProjectAndrostu\mahasiswa-app-android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_479783de43c21ff92519c0d4545ec5fbbfc9c786\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Helmianto\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.4.1\381fc1096ba65040d8e80ea43b2e1d9bad02345e\logging-interceptor-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="F:\ProjectAndrostu\mahasiswa-app-android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.4.1_877c2e0c01c280ac0269e9ed9b791c94f20d17a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Helmianto\.android\build-cache\92e19e04fa93d85b5b79cfb7e3ee164777cb3d4a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="F:\ProjectAndrostu\mahasiswa-app-android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6a8a0d79c4e23bf8cb285001a36507e2ad09381f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Helmianto\.android\build-cache\e34b10a1a961f12ae8b1c62d0a4d83faf74155db\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="F:\ProjectAndrostu\mahasiswa-app-android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c9ac33010cf8400f9257a4f70f8e5e612f993b35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Helmianto\.android\build-cache\49b10368fa73011de9fee8948d684934972d7e6c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="F:\ProjectAndrostu\mahasiswa-app-android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2a3460e7591a1f99fc1f7f6b1134274ee695a5f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Helmianto\.android\build-cache\716a5411566e36bb4b90fafcae311f0fba587fbc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="F:\ProjectAndrostu\mahasiswa-app-android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b2a0b207c5873a86fdd5ee0749c83333af4b5fa4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Helmianto\.android\build-cache\21241132915d14e6556fff9abb874577c6d3cb78\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="F:\ProjectAndrostu\mahasiswa-app-android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_930e5999f4c07351103dcdb22098881beaff8c95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Helmianto\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="F:\ProjectAndrostu\mahasiswa-app-android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_c0c1d64d1a6499cef59fb56895f6af246d1817c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Helmianto\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="F:\ProjectAndrostu\mahasiswa-app-android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_8c06717ba82b5efb67f6abf33db19cd1c4b39a5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Helmianto\.android\build-cache\105dd672dd3475dec060fe4a1019391bebae7ab5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="F:\ProjectAndrostu\mahasiswa-app-android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9522f8dca860b00b1b2bb4401bb5e94b8ced1ac8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Helmianto\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="F:\ProjectAndrostu\mahasiswa-app-android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_2c2732e440b10e7ce49196c216d04af1e2d5e459\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Helmianto\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="F:\ProjectAndrostu\mahasiswa-app-android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_08bc046619a694b509b305fef0dbf3ce1086e8ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Helmianto\.android\build-cache\c46ca5f8015b92e483acc70464e09cd61bc9359e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="F:\ProjectAndrostu\mahasiswa-app-android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b9d8e97a69c78742e30a28c1c66f33dbae5701bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Helmianto\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="F:\ProjectAndrostu\mahasiswa-app-android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.2_077f5d41c025b7a4272277367521bb145882ff6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Helmianto\.android\build-cache\73dd5559b12f07c594139c0a8b93c5a29429fc4b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="F:\ProjectAndrostu\mahasiswa-app-android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_10e10b54e5a06cc2f350a5f851ad091b61945739\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Helmianto\.android\build-cache\30c4eb23b27d73d81ba74be257b0c615106e3917\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="F:\ProjectAndrostu\mahasiswa-app-android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1d365fb5bb2592f1fd24c27521e00572ab450d66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Helmianto\.android\build-cache\8f78842ad817b1c9c15bd70acf05e64cf4395f89\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="F:\ProjectAndrostu\mahasiswa-app-android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cc5d5415966ed6120954daf0e858afcce3c87e16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Helmianto\.android\build-cache\c431e4d2662a48186d754088c6e14eb0b7bc301d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="F:\ProjectAndrostu\mahasiswa-app-android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a5f704ed9a14d006239c87cf13a0b650122d1920\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Helmianto\.android\build-cache\3670b4072ac1423b5804f33ebc2807c54bfb187f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="F:\ProjectAndrostu\mahasiswa-app-android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2c46622cfca155f76d31e37b838590be9896c776\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Helmianto\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="F:\ProjectAndrostu\mahasiswa-app-android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.2_362d5af6c1c8797b7c40c1c6b6c87d62c3738bd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ProjectAndrostu\mahasiswa-app-android-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="88df562e0b2901b6b8e0bff1369983a474a2af26">
+        <dex dex="F:\ProjectAndrostu\mahasiswa-app-android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_86771802cb65490ff6753d2ab3f978229ed5e5af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Helmianto\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.5.1\bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc\butterknife-annotations-8.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="F:\ProjectAndrostu\mahasiswa-app-android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.5.1_54b438d742ad9ed9fe5877be13dfe40c72db6b09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Helmianto\.android\build-cache\90d3d295a65c332f0c7a8ea7bfe369431cc72878\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="F:\ProjectAndrostu\mahasiswa-app-android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a75cd29c99d42a95e8c8403d0b0f9832ca569f69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ProjectAndrostu\mahasiswa-app-android-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\ProjectAndrostu\mahasiswa-app-android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_55eae508040e54ec4b6d3b94356dafe5d75d68d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Helmianto\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="F:\ProjectAndrostu\mahasiswa-app-android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.1_f26ca6423115e201a74f6fbb56dd21868d1427b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Helmianto\.android\build-cache\3f1ba0a030021bbfc0b793a93369d58dcdfa65f9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="F:\ProjectAndrostu\mahasiswa-app-android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9cd7ff27167042353943b2e967381339b7b09e4d\classes.dex" />
+    </item>
+
+</items>
